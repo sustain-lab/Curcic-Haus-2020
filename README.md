@@ -2,3 +2,8 @@
 
 Data and notebooks for Curcic and Haus (2020),
 submitted for publication in Geophysical Research Letters.
+
+## Notebooks
+
+* [Drag coefficient in the laboratory (this study)](asist-drag-coefficient.ipynb)
+* [Correcting Donelan et al. (2004) data](correcting_donelan_etal_2004_data.ipynb)
