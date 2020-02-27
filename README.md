@@ -1,6 +1,6 @@
 # Curcic-Haus-2020
 
-Data and notebooks for Curcic and Haus (2020),
+Data and notebooks for [Curcic and Haus (2020)](https://arxiv.org/abs/2002.10590),
 submitted for publication in Geophysical Research Letters.
 
 ## Notebooks
